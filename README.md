@@ -1,4 +1,3 @@
-```markdown
 # AWS Lightsail Nginx Reverse Proxy with Flask
 
 [![AWS](https://img.shields.io/badge/AWS-Lightsail-orange?logo=amazon-aws)](https://aws.amazon.com/lightsail/)
