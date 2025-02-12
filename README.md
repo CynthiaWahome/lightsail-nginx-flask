@@ -1,4 +1,4 @@
-# AWS Lightsail Nginx Reverse Proxy with Flask
+# Deploying Flask with Nginx Reverse Proxy on AWS Lightsail
 
 [![AWS](https://img.shields.io/badge/AWS-Lightsail-orange?logo=amazon-aws)](https://aws.amazon.com/lightsail/)
 [![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)](https://www.docker.com/)
